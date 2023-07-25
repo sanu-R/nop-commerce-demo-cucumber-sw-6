@@ -1,0 +1,8 @@
+2023-07-25 21:07:546 INFO  HomePage :31 - click on computer..[[ChromeDriver: chrome on windows (6e597a88f802303c5aebe820a23e72bd)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-07-25 21:07:89 INFO  DesktopsPage :23 - click on desktop..[[ChromeDriver: chrome on windows (6e597a88f802303c5aebe820a23e72bd)] -> css selector: h2[class='title'] a[title='Show products in category Desktops']]
+2023-07-25 21:07:721 INFO  HomePage :31 - click on computer..[[ChromeDriver: chrome on windows (d2b004af4fc16443c2bc92639ddb2c9f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-07-25 21:07:168 INFO  HomePage :31 - click on computer..[[ChromeDriver: chrome on windows (d2b004af4fc16443c2bc92639ddb2c9f)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-07-25 21:07:632 INFO  DesktopsPage :23 - click on desktop..[[ChromeDriver: chrome on windows (d2b004af4fc16443c2bc92639ddb2c9f)] -> css selector: h2[class='title'] a[title='Show products in category Desktops']]
+2023-07-25 21:07:216 INFO  BuildYourOwnComputerPage :47 - Click on Element..[[ChromeDriver: chrome on windows (d2b004af4fc16443c2bc92639ddb2c9f)] -> xpath: //h2[@class='product-title']//a[normalize-space()='Build your own computer']]
+2023-07-25 21:07:916 INFO  HomePage :26 - click on login link...[[ChromeDriver: chrome on windows (cf2ed027df9b307472dd526c200bc12f)] -> xpath: //a[normalize-space()='Log in']]
+2023-07-25 21:07:62 INFO  LoginPage :35 - Welcome message..[[ChromeDriver: chrome on windows (cf2ed027df9b307472dd526c200bc12f)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
